@@ -1,0 +1,1 @@
+p is a pointer and q is an integer. * is grouped with variables, not data types.
