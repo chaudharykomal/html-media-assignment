@@ -1,0 +1,5 @@
+There are several errors in the provided code:
+
+1-The function getAverage is declared but not defined. We need to define this function.
+2-In the main function, the function call to getAverage is passing the first element of the array balance instead of the array itself.
+3-The function getAverage is supposed to return a double value, but there is no return statement.
