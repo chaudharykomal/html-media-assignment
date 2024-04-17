@@ -1,0 +1,1 @@
+O(logN), because each time n gets divided by 2 in each iteration, so in total the loop will be iterated logN to the base 2 times.

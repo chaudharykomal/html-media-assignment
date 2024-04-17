@@ -1,0 +1,1 @@
+O(n log n) as the first loop ‘i’ will be iterated n times and the inner loop will only traverse logn times so in total the overall time complexity becomes O(nlogn).

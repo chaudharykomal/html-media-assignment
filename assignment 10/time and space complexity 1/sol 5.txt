@@ -1,0 +1,1 @@
+O(n) as note here ‘i’ is being incremented by just 1 value so the loop will be iterated n times only. Value of c is increasing but it has no effect on iterations of loop.

@@ -1,0 +1,6 @@
+Let us analyze how many times the inner loop will iterate. Let us see the value of j for that.
+
+J = 1, 2, 4, ... 2k
+So 2^k * 2^k < n
+So 2^(k+1) < n
+So Time complexity becomes logN.

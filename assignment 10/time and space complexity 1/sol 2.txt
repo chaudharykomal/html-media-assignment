@@ -1,0 +1,1 @@
+O(1), because the loop will only be iterated once. After one iteration ‘i’ will become 1 from n and the loop will break.
