@@ -1,0 +1,1 @@
+Soln: A)It needs O(1) or O(logn) memory to create auxiliary location1
